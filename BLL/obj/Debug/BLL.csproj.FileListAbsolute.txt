@@ -1,0 +1,31 @@
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\bin\Debug\BLL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\bin\Debug\BLL.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\bin\Debug\DAL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\bin\Debug\Entity.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\bin\Debug\DAL.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\bin\Debug\Entity.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\obj\Debug\BLL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\BLL\obj\Debug\BLL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\bin\Debug\BLL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\bin\Debug\BLL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\bin\Debug\DAL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\bin\Debug\Entity.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\bin\Debug\DAL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\bin\Debug\Entity.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\obj\Debug\BLL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\BLL\obj\Debug\BLL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\bin\Debug\BLL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\bin\Debug\BLL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\bin\Debug\DAL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\bin\Debug\Entity.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\bin\Debug\DAL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\bin\Debug\Entity.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\obj\Debug\BLL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\BLL\obj\Debug\BLL.pdb

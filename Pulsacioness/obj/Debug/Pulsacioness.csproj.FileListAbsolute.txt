@@ -1,0 +1,40 @@
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\BLL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\Entity.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\BLL.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\Entity.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csprojAssemblyReference.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csproj.CopyComplete
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.exe.config
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.exe
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.exe
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\DAL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\Pulsacioness\bin\Debug\DAL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.exe.config
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.exe
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\BLL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\Entity.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\DAL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\BLL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\Entity.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\bin\Debug\DAL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.exe
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.exe.config
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.exe
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\Pulsacioness.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\BLL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\Entity.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\DAL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\BLL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\Entity.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\bin\Debug\DAL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.exe
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Pulsacioness\obj\Debug\Pulsacioness.pdb

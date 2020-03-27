@@ -1,0 +1,25 @@
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\bin\Debug\DAL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\bin\Debug\DAL.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\bin\Debug\Entity.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\bin\Debug\Entity.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\obj\Debug\DAL.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\DAL\obj\Debug\DAL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\bin\Debug\DAL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\bin\Debug\DAL.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\bin\Debug\Entity.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\bin\Debug\Entity.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\obj\Debug\DAL.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\DAL\obj\Debug\DAL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\bin\Debug\DAL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\bin\Debug\DAL.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\bin\Debug\Entity.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\bin\Debug\Entity.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\obj\Debug\DAL.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,16 @@
+C:\Users\UNICESAR\source\repos\Pulsacioness\Entity\bin\Debug\Entity.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\Entity\bin\Debug\Entity.pdb
+C:\Users\UNICESAR\source\repos\Pulsacioness\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR\source\repos\Pulsacioness\Entity\obj\Debug\Entity.dll
+C:\Users\UNICESAR\source\repos\Pulsacioness\Entity\obj\Debug\Entity.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Entity\bin\Debug\Entity.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Entity\bin\Debug\Entity.pdb
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Entity\obj\Debug\Entity.dll
+C:\Users\andre\OneDrive\Documentos\Proyectos programacion 3\Pulsacioness\Entity\obj\Debug\Entity.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Entity\bin\Debug\Entity.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Entity\bin\Debug\Entity.pdb
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Entity\obj\Debug\Entity.dll
+C:\Users\ESTUDIANTE\Downloads\Pulsacioness\Entity\obj\Debug\Entity.pdb
